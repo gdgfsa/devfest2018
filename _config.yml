@@ -10,19 +10,19 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
+title: "GDG DevFest Feira de Santana 2018"
+email: "gdgfsa@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/devfest2018"
-url: "https://gdgfsa.github.io"
+baseurl: ""
+url: "https://gdgfsa.github.io/devfest2018"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+#googleAnalyticsTrackingId: "UA-43643469-5"
+#googleAnalyticsSiteUrl: "gdg-x.github.io"
+#siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerName: "GDG Feira de Santana"
+organizerAlternateName: "Google Developer Group Feira de Santana"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "lviv@gdg.org.ua"
 organizerLogo: "/img/seo/organizer-logo.png"
