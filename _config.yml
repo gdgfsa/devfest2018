@@ -68,16 +68,16 @@ heroButtons:
 # About Block
 aboutTitle: "Sobre GDG DevFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Palestras", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Networking", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "100", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "8", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "100", specialCharacter: "+", info: "participantes", detail: "de toda região"}
+ - {count: "8", specialCharacter: "+", info: "horas", detail: "de conteúdo"}
+ - {count: "2", specialCharacter: "", info: "trilhas", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -85,11 +85,11 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Palestrantes"
+rockstarSpeakersButtonText: "Conheça nossos palestrantes"
 
 # Location Block
-locationBlockTitle: "Location"
+locationBlockTitle: "Localização"
 eventLocationName: "Conference Hall"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
 eventStreetAddress: "22 Teatral'na St"
@@ -182,7 +182,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://www.meetup.com/pt-BR/gdgfsa/", text: "GDG Feira de Santana"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
