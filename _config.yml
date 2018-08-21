@@ -38,7 +38,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "https://docs.google.com/presentation/d/14Mt4EaWLAw5A0BzgY3kUyiXG46TAp8prV-BknxJSnwc/edit?usp=sharing"
 
 
 # Navigation
@@ -51,18 +51,21 @@ navigationLinks:
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/bZFm7DjlZtI1oGyo2", text: "Chamada de palestrantes"}
+ - {link: "https://docs.google.com/presentation/d/14Mt4EaWLAw5A0BzgY3kUyiXG46TAp8prV-BknxJSnwc/edit?usp=sharing", text: "Seja um patrocinador"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/bZFm7DjlZtI1oGyo2", text: "Chamada de palestrantes"}
+ - {link: "https://docs.google.com/presentation/d/14Mt4EaWLAw5A0BzgY3kUyiXG46TAp8prV-BknxJSnwc/edit?usp=sharing", text: "Seja um patrocinador"}
 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2018"
+heroImage: "background.png"
+heroTitle: "DevFest <typeout> 2018"
 eventDate: "8 de dezembro de 2018"
 typeoutTextValues: '"", "Feira de Santana", "Bahia", "Brasil"'
 typeoutFallback: "Feira de Santana"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/bZFm7DjlZtI1oGyo2", text: "Chamada de palestrantes"}
+ - {link: "https://docs.google.com/presentation/d/14Mt4EaWLAw5A0BzgY3kUyiXG46TAp8prV-BknxJSnwc/edit?usp=sharing", text: "Seja um patrocinador"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -77,7 +80,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "100", specialCharacter: "+", info: "participantes", detail: "de toda região"}
  - {count: "8", specialCharacter: "+", info: "horas", detail: "de conteúdo"}
- - {count: "2", specialCharacter: "", info: "trilhas", detail: ""}
+# - {count: "2", specialCharacter: "", info: "trilhas", detail: "de atividades"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -122,7 +125,7 @@ twitterFeed: "https://www.meetup.com/pt-BR/gdgfsa/tweetledee/favoritesjson.php?c
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Seja um patrocinador"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
