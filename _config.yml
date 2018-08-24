@@ -194,7 +194,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Código de Conduta"}
 
 # Blog
 blogTitle: "Latest news"
