@@ -71,9 +71,9 @@ heroButtons:
 # About Block
 aboutTitle: "Sobre GDG DevFest"
 aboutBlock:
- - {title: "Palestras", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Networking", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Palestras", image: "conference.jpg", text: "O maior evento de comunidade promovido pelo programa GDG no Brasil! Seja um dos palestrantes e venha fazer esse evento conosco!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Teremos workshops voltados para atividades práticas e tecnologias crescentes no mercado." }
+ - {title: "Networking", image: "hackathon.jpg", text: "Uma das melhores formas para desenvolvimento profissional com certeza é conhecer a comunidade que você faz parte" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
