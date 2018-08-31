@@ -32,9 +32,9 @@ organizerLink: "https://www.meetup.com/pt-BR/gdgfsa/"
 # Head
 metaKeywords: "gdg, devfest, google, programming, android, chrome, developers, Feira de Santana"
 #twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/sharing.png"
+socialImageSrcTwitter: "/img/seo/sharing.png"
+socialImageSrcFacebook: "/img/seo/sharing.png"
 
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
@@ -112,7 +112,6 @@ venueBlockTitle: "Local"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
 venueTitle: "FTC"
 venueFeatures: ["Localizado próximo ao anel rodoviário", "Estrutura moderna e acessível", "Na Princesa do Sertão"]
 
