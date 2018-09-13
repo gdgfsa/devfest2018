@@ -137,42 +137,47 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
+  name: "Primeiro lote"
+  price: "30"
+  priceCurrency: "R$"
   ticketsNumber: "100"
-  ribbon: "-20%"
+  ribbon: ""
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
+  buyButtonLink: "https://www.sympla.com.br/devfest-afeira-de-santana-2018__349642"
+  buyButtonText: "Participe!"
+  ticketContentList: []
+  validFrom: "2018-09-03T00:00"
+  validThrough: "2018-10-08T00:00"
+  soldout: false
+  soldOutText: "Esgotado"
  -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  name: "Segundo Lote"
+  price: "40"
+  priceCurrency: "R$"
+  ticketsNumber: "100"
+  ribbon: ""
+  featured: false
+  buyButtonLink: "https://www.sympla.com.br/devfest-afeira-de-santana-2018__349642"
+  buyButtonText: "Em breve"
+  ticketContentList: []
+  validFrom: "2018-10-08T00:00"
+  validThrough: "2018-11-11T00:00"
+  disabled: true
+  soldOut: false
+  soldOutText: "Esgotado"
+ -
+  name: "Último lote"
+  price: "50"
+  priceCurrency: "R$"
+  ticketsNumber: "100"
+  buyButtonLink: "https://www.sympla.com.br/devfest-afeira-de-santana-2018__349642"
+  buyButtonText: "Em breve"
+  ticketContentList: []
+  validFrom: "2018-11-11T00:00"
+  validThrough: "2018-12-06T00:00"
+  soldOut: false
+  disabled: true
+  soldOutText: "Esgotado"
 
 # Footer
 socialLinks:
