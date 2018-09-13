@@ -53,9 +53,11 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "https://goo.gl/forms/bZFm7DjlZtI1oGyo2", text: "Chamada de palestrantes"}
  - {link: "https://docs.google.com/presentation/d/14Mt4EaWLAw5A0BzgY3kUyiXG46TAp8prV-BknxJSnwc/edit?usp=sharing", text: "Seja um patrocinador"}
+ - {permalink: "/#tickets", text: "Participe!"}
 rightNavigationButtons:
  - {link: "https://goo.gl/forms/bZFm7DjlZtI1oGyo2", text: "Chamada de palestrantes"}
  - {link: "https://docs.google.com/presentation/d/14Mt4EaWLAw5A0BzgY3kUyiXG46TAp8prV-BknxJSnwc/edit?usp=sharing", text: "Seja um patrocinador"}
+ - {permalink: "/#tickets", text: "Participe!"}
 
 # Hero Block
 heroImage: "background.png"
@@ -66,7 +68,7 @@ typeoutFallback: "Feira de Santana"
 heroButtons:
  - {link: "https://goo.gl/forms/bZFm7DjlZtI1oGyo2", text: "Chamada de palestrantes"}
  - {link: "https://docs.google.com/presentation/d/14Mt4EaWLAw5A0BzgY3kUyiXG46TAp8prV-BknxJSnwc/edit?usp=sharing", text: "Seja um patrocinador"}
-# - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Participe!"}
 
 # About Block
 aboutTitle: "Sobre GDG DevFest"
@@ -78,7 +80,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "100", specialCharacter: "+", info: "participantes", detail: "de toda região"}
+ - {count: "200", specialCharacter: "+", info: "participantes", detail: "de toda região"}
  - {count: "8", specialCharacter: "+", info: "horas", detail: "de conteúdo"}
 # - {count: "2", specialCharacter: "", info: "trilhas", detail: "de atividades"}
 
@@ -133,7 +135,7 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
+ticketsTitle: "Ingressos"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
@@ -141,7 +143,6 @@ ticketsOffers:
   price: "30"
   priceCurrency: "R$"
   ticketsNumber: "100"
-  ribbon: ""
   featured: true
   buyButtonLink: "https://www.sympla.com.br/devfest-afeira-de-santana-2018__349642"
   buyButtonText: "Participe!"
@@ -155,8 +156,6 @@ ticketsOffers:
   price: "40"
   priceCurrency: "R$"
   ticketsNumber: "100"
-  ribbon: ""
-  featured: false
   buyButtonLink: "https://www.sympla.com.br/devfest-afeira-de-santana-2018__349642"
   buyButtonText: "Em breve"
   ticketContentList: []
