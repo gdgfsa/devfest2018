@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Feira de Santana 2018"
+title: "DevFest 2018"
 email: "gdgfsaba@gmail.com"
-description: "GDG DevFest é um evendo de comunidade global do programa GDG"
+description: "DevFest é um evendo de comunidade global do programa GDG"
 baseurl: "/devfest2018"
 url: "https://gdgfsa.github.io/"
 permalink: "/blog/:title"
@@ -38,7 +38,7 @@ socialImageSrcFacebook: "/img/seo/sharing.png"
 
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "https://docs.google.com/presentation/d/14Mt4EaWLAw5A0BzgY3kUyiXG46TAp8prV-BknxJSnwc/edit?usp=sharing"
+c4sponsorsUrl: "https://docs.google.com/presentation/d/1I8kw5IvJMprTkqb5-uHJEDY_uAA0GOMGWAZSiMzLsFo/edit?usp=drive_web&ouid=102514090926231885162"
 
 
 # Navigation
@@ -52,22 +52,22 @@ navigationLinks:
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://goo.gl/forms/bZFm7DjlZtI1oGyo2", text: "Chamada de palestrantes"}
- - {link: "https://docs.google.com/presentation/d/14Mt4EaWLAw5A0BzgY3kUyiXG46TAp8prV-BknxJSnwc/edit?usp=sharing", text: "Seja um patrocinador"}
+ - {link: "https://docs.google.com/presentation/d/1I8kw5IvJMprTkqb5-uHJEDY_uAA0GOMGWAZSiMzLsFo/edit?usp=drive_web&ouid=102514090926231885162", text: "Seja um patrocinador"}
  - {permalink: "/#tickets", text: "Participe!"}
 rightNavigationButtons:
  - {link: "https://goo.gl/forms/bZFm7DjlZtI1oGyo2", text: "Chamada de palestrantes"}
- - {link: "https://docs.google.com/presentation/d/14Mt4EaWLAw5A0BzgY3kUyiXG46TAp8prV-BknxJSnwc/edit?usp=sharing", text: "Seja um patrocinador"}
+ - {link: "https://docs.google.com/presentation/d/1I8kw5IvJMprTkqb5-uHJEDY_uAA0GOMGWAZSiMzLsFo/edit?usp=drive_web&ouid=102514090926231885162", text: "Seja um patrocinador"}
  - {permalink: "/#tickets", text: "Participe!"}
 
 # Hero Block
-heroImage: "background.png"
-heroTitle: "DevFest <typeout> 2018"
+#heroImage: "background.png"
+heroTitle: "DevFest <typeout>"
 eventDate: "8 de dezembro de 2018"
 typeoutTextValues: '"", "Feira de Santana", "Bahia", "Brasil"'
 typeoutFallback: "Feira de Santana"
 heroButtons:
  - {link: "https://goo.gl/forms/bZFm7DjlZtI1oGyo2", text: "Chamada de palestrantes"}
- - {link: "https://docs.google.com/presentation/d/14Mt4EaWLAw5A0BzgY3kUyiXG46TAp8prV-BknxJSnwc/edit?usp=sharing", text: "Seja um patrocinador"}
+ - {link: "https://docs.google.com/presentation/d/1I8kw5IvJMprTkqb5-uHJEDY_uAA0GOMGWAZSiMzLsFo/edit?usp=drive_web&ouid=102514090926231885162", text: "Seja um patrocinador"}
  - {permalink: "/#tickets", text: "Participe!"}
 
 # About Block
@@ -102,8 +102,8 @@ eventAddressLocality: "Feira de Santana"
 eventAddressLocalityRegion: "Bahia"
 eventPostalCode: "44085-370"
 eventAddressCountry: "Brasil"
-eventStartTime: "2018-12-08T13:00"
-eventDoorTime: "13:30"
+eventStartTime: "2018-12-08T08:00"
+eventDoorTime: "08:30"
 eventEndTime: "2018-12-08T18:30"
 eventPlaceCoordinates: "-12.2468695, -38.9247064"
 mapCenterCoordinates: "-12.2468695, -38.9247064"
