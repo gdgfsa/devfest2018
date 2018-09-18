@@ -124,8 +124,8 @@ twitterHashTag: "devfest"
 twitterFeed: "https://www.meetup.com/pt-BR/gdgfsa/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
+organizersTitle: "Organização"
+partnersTitle: "Patrocinadores"
 partnersC4sponsorsButton: "Seja um patrocinador"
 
 # Subscribe Block
