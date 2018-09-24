@@ -31,20 +31,20 @@ organizerLink: "https://www.meetup.com/pt-BR/gdgfsa/"
 
 # Head
 metaKeywords: "gdg, devfest, google, programming, android, chrome, developers, Feira de Santana"
-#twitterAccount: "@DevFest"
+twitterAccount: "@gdgfsa"
 socialImageSrcGooglePlus: "/img/seo/sharing.png"
 socialImageSrcTwitter: "/img/seo/sharing.png"
 socialImageSrcFacebook: "/img/seo/sharing.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
+c4pUrl: "https://goo.gl/forms/bZFm7DjlZtI1oGyo2"
 c4sponsorsUrl: "https://docs.google.com/presentation/d/1I8kw5IvJMprTkqb5-uHJEDY_uAA0GOMGWAZSiMzLsFo/edit?usp=drive_web&ouid=102514090926231885162"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-# - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/cod/", text: "Código de Conduta"}
 # - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Palestrantes"}
 # - {permalink: "/team/", text: "Team"}
@@ -180,9 +180,9 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://plus.google.com/+GDGFeiradeSantana", icon: "google-plus"}
+ - {link: "https://twitter.com/gdgfsaba", icon: "twitter"}
+ - {link: "https://facebook.com/gdgfsaba", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -201,7 +201,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "devfest"
 
 # Speakers List Block
 showSessions: true
