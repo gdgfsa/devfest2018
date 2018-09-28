@@ -10,19 +10,19 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/biancamrqs"}
     - {name: "instagram", link: "https://instagram.com/biancamrqs"}
-#- 
-#  id: 4
-#  name: "Dmytro"
-#  surname: "Danylyk"
-#  company: "Lemberg Solutions Limited"
-#  title: "Android Developer"
-#  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-#  thumbnailUrl: DmytroDanylyk.jpg
-#  rockstar: true
-#  social: 
-#    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
+  id: 4
+  name: "Romualdo"
+  surname: "Costa"
+  company: "UFRB"
+  title: "Analista de TI"
+  bio: 'Analista de TI na UFRB, organizador do GDG Feira de Santana e motociclista viajante'
+  thumbnailUrl: romualdo.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://br.linkedin.com/in/romualdo-andre-3072237"}
+    - {name: "twitter", link: "https://twitter.com/programadorfsa"}
+    - {name: "github", link: "https://github.com/romualdoandre"}
 #- 
 #  id: 5
 #  name: "Mateusz"
