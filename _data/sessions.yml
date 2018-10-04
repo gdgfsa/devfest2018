@@ -27,7 +27,7 @@
   complexity: "Intermediário" 
 -
   id: 003
-  title: "IoT + Firebase + Ionic = &#x1f44d;"
+  title: "IoT + Firebase + Ionic = &#10084;"
   description: "Vamos imersar no mundo que talvez seja o mais promissor na tecnologia? Nessa palestra, falo para você sobre Internet das Coisas (IoT), como conectar um aplicativo (Ionic + Angular) e utilizando serviços da nuvem (Firebase), iremos acender um LED e medir a temperatura e umidade do ar, tudo isso no palco do evento!!"
   subtype: presentation
   speakers: [5]
