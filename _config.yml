@@ -1,3 +1,4 @@
+
 # Plugins
 gems:
 - jekyll-sitemap
@@ -60,7 +61,7 @@ rightNavigationButtons:
  - {permalink: "/#tickets", text: "Participe!"}
 
 # Hero Block
-#heroImage: "background.png"
+heroImage: "dev-fest1.jpg"
 heroTitle: "DevFest <typeout>"
 eventDate: "8 de dezembro de 2018"
 typeoutTextValues: '"", "Feira de Santana", "Bahia", "Brasil"'
