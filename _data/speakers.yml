@@ -34,21 +34,21 @@
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/juniorabranches/"}
-- {name: "github", link: "https://github.com/juniorabranches"}
-#- 
-#  id: 6
-#  name: "Roman"
-#  surname: "Mazur"
-#  company: "Stanfy, GDG Kyiv"
-#  title: "Head of Android/Java Unit"
-#  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-#  thumbnailUrl: RomanMazur.jpg
-#  rockstar: true
-#  ribbon:
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#  social: 
-#    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-#    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    - {name: "github", link: "https://github.com/juniorabranches"}
+- 
+  id: 6
+  name: "Fernanda"
+  surname: "Bernardo"
+  company: "Elo7"
+  title: "Engenheira de Software"
+  bio: "Sou desenvolvedora front end, criadora do @help4papers, iniciativa que ajuda as pessoas a se comunicarem melhor enfrentando seus medos,, instrutora e mentora, organizadora do TC Talks meetup do @trainingcentr, Microsoft MVP e criadora do “diabetes mais doce”, blog sobre diabetes onde conto sobre a minha experiência com a diabetes e futuramente um aplicativo para facilitar o dia a dia de uma pessoa diabética. "
+  thumbnailUrl: fernanda.jpg
+  rockstar: true
+  social: 
+    - {name: "github", link: "https://github.com/FernandaBernardo"}
+    - {name: "twitter", link: "http://twitter.com/Feh_Bernardo"}
+    - {name: "site", link: "http://fernandabernardo.com.br/"}
+    - {name: "facebook", link: "https://www.facebook.com/fernanda.m.bernardo"}
 #- 
 #  id: 7
 #  name: "Valentyn"

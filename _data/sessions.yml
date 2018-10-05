@@ -44,14 +44,14 @@
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: "UX para aumentar a liberdade de diabéticos"
+  description: "Diabéticos podem sim comer doces! O problema é que isso implica em uma quantidade enorme de contas a cada alimentação. É um trabalho repetitivo e sujeito a muitos erros, então… por que não automatizar? Este é um relato sobre a criação de um aplicativo para melhorar a qualidade de vida dos 22 milhões de brasileiros diabéticos. Venha conhecer mais sobre diabetes e sobre como o projeto vai evoluindo, através da aplicação de técnicas de UX para validar as hipóteses de usabilidade desde mais cedo, minimizando retrabalho e envolvendo o usuário do aplicativo no processo de construção dele."
   subtype: keynote
   speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  language: pt
+  complexity: "Intermediário"
+#  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
   title: "Test: Interacting with Google Services using nothing but HTML"
