@@ -86,7 +86,7 @@ statisticBlock:
 # - {count: "2", specialCharacter: "", info: "trilhas", detail: "de atividades"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Informações"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -149,7 +149,7 @@ ticketsOffers:
   buyButtonText: "Participe!"
   ticketContentList: []
   validFrom: "2018-09-03T00:00"
-  validThrough: "2018-10-08T00:00"
+  validThrough: "2018-10-22T00:00"
   soldout: false
   soldOutText: "Esgotado"
  -
@@ -160,8 +160,8 @@ ticketsOffers:
   buyButtonLink: "https://www.sympla.com.br/devfest-afeira-de-santana-2018__349642"
   buyButtonText: "Em breve"
   ticketContentList: []
-  validFrom: "2018-10-08T00:00"
-  validThrough: "2018-11-11T00:00"
+  validFrom: "2018-10-22T00:00"
+  validThrough: "2018-11-26T00:00"
   disabled: true
   soldOut: false
   soldOutText: "Esgotado"
@@ -173,7 +173,7 @@ ticketsOffers:
   buyButtonLink: "https://www.sympla.com.br/devfest-afeira-de-santana-2018__349642"
   buyButtonText: "Em breve"
   ticketContentList: []
-  validFrom: "2018-11-11T00:00"
+  validFrom: "2018-11-22T00:00"
   validThrough: "2018-12-06T00:00"
   soldOut: false
   disabled: true
@@ -200,8 +200,8 @@ footerBlocks:
    - {permalink: "/cod/", text: "Código de Conduta"}
 
 # Blog
-blogTitle: "Latest news"
-blogCommentsEnabled: true
+blogTitle: "Novidades"
+blogCommentsEnabled: false
 discusShortName: "devfest"
 
 # Speakers List Block
