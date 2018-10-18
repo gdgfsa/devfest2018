@@ -54,11 +54,11 @@
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  title: "Precisamos falar de DIVERSIDADE! Comunidade feminina em eventos de tecnologia."
+  description: "Estamos quase em 2019 e, no geral, ainda temos um número reduzido de mulheres em eventos e comunidades de tecnologia. Por que essa realidade ainda é visível? Onde estão essas mulheres que também devem ser atuantes de forma direta nestes nichos? Como palestrante, falarei dos desafios que é ser mulher no espaço majoritariamente masculino, enfatizando a importância e a história das mulheres na área, já que foram elas que deram os primeiros passos para o avanço da tecnologia."
+  subtype: presentation
   speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  language: pt
+  complexity: "Iniciante"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
