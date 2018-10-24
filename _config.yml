@@ -144,25 +144,25 @@ ticketsOffers:
   price: "30"
   priceCurrency: "R$"
   ticketsNumber: "100"
-  featured: true
   buyButtonLink: "https://www.sympla.com.br/devfest-afeira-de-santana-2018__349642"
-  buyButtonText: "Participe!"
+  buyButtonText: "Esgotado!"
   ticketContentList: []
   validFrom: "2018-09-03T00:00"
   validThrough: "2018-10-22T00:00"
-  soldout: false
+  disabled: true
+  soldout: true
   soldOutText: "Esgotado"
  -
   name: "Segundo Lote"
   price: "40"
   priceCurrency: "R$"
+  featured: true
   ticketsNumber: "100"
   buyButtonLink: "https://www.sympla.com.br/devfest-afeira-de-santana-2018__349642"
-  buyButtonText: "Em breve"
+  buyButtonText: "Participe!"
   ticketContentList: []
   validFrom: "2018-10-22T00:00"
   validThrough: "2018-11-26T00:00"
-  disabled: true
   soldOut: false
   soldOutText: "Esgotado"
  -
