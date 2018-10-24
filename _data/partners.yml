@@ -5,7 +5,7 @@
 -
   group: "Padrinhos"
   elements:
-    - {name: "BenMelhor", description: "Produzir com Motivação. Engajar Pessoas. Criar cultura positiva.", link: "#", imageUrl: "benmelhor.png", width: "150px"}
+    - {name: "BenMelhor", description: "Produzir com Motivação. Engajar Pessoas. Criar cultura positiva.", link: "#", imageUrl: "benmelhor.jpeg", width: "200px"}
 #- 
 #  group: "Apoio"
 #  elements: 
