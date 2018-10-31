@@ -61,3 +61,15 @@
   social: 
     - {name: "facebook", link: "https://www.facebook.com/milly.melo.58"}
     - {name: "instagram", link: "https://www.instagram.com/milenamelo.souza/"}
+-
+  id: 8
+  name: "Ellen"
+  surname: "Aguiar"
+  company: "UEFS"
+  title: "Estudante de Bacharelado em Engenharia de Computação na Universidade Estadual de Feira de Santana, pesquisadora no Laboratório de Entretenimento Digital Aplicado e membro do grupo ProgramADA. Entusiasta da tecnologia a favor do ser humano, principalmente de suas peculiaridades e necessidades."
+  bio: "Estudante de Bacharelado em Engenharia de Computação na Universidade Estadual de Feira de Santana, pesquisadora no Laboratório de Entretenimento Digital Aplicado e membro do grupo ProgramADA. Entusiasta da tecnologia a favor do ser humano, principalmente de suas peculiaridades e necessidades."
+  thumbnailUrl: ellen.jpg
+  rockstar: false
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/ellen.c.aguiar"}
+

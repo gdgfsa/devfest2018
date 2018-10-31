@@ -62,3 +62,11 @@
   complexity: "Iniciante"
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 006
+  title: "Projeto Tales of Health"
+  description: "Um projeto de aplicativo que visa ajudar pessoas neurotípicas a lidar com as neuroatípicas de forma confortável e natural. Ajudando você a ajudar pessoas autistas a se sentirem incluídas em quaisquer ambientes."
+  subtype: presentation
+  speakers: [8]
+  language: pt
+  complexity: "Iniciante"
