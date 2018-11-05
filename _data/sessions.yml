@@ -70,3 +70,11 @@
   speakers: [8]
   language: pt
   complexity: "Iniciante"
+- 
+  id: 007
+  title: "Experimentos com Vue + AMP"
+  description: "O AMP é uma proposta de web mais rápida, o Vue é uma proposta de desenvolvimento simples, mas extremamente poderoso. Nessa talk vamos experimentar o uso de componentes do AMP em conjunto a todos os benefícios que o Vue pode oferecer :)"
+  subtype: presentation
+  speakers: [9]
+  language: pt
+  complexity: "Intermediário"
