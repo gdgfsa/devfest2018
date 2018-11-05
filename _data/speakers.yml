@@ -79,7 +79,7 @@
   company: "Bliive"
   title: "Engenheiro de Software"
   bio: "Desenvolvendo Software para a Web ja faz uns anos, não tenho nenhum vício com café, nem mesmo consigo transformar café em código. Sou apaixonado pelo modo como o Vue torna o desenvolvimento reativo inclusivo e promove a evolução da Web através de HTML, Javascript e CSS. "
-  thumbnailUrl: "francisco.jpg"
+  thumbnailUrl: francisco.jpg
   rockstar: false
   social:
     - {name: "twitter", link: "https://www.twitter.com/cbo317110"}
