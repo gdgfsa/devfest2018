@@ -23,18 +23,18 @@
     - {name: "linkedin", link: "https://br.linkedin.com/in/romualdo-andre-3072237"}
     - {name: "twitter", link: "https://twitter.com/programadorfsa"}
     - {name: "github", link: "https://github.com/romualdoandre"}
-- 
-  id: 5
-  name: "Júnior"
-  surname: "Abranches"
-  company: "i9 Desenvolvimento"
-  title: "Founder e Analista"
-  bio: "Trabalho com desenvolvimento mobile há 7 anos, e cerca de 1 ano integrando com o IoT e serviços Cloud. Sou apaixonado por tecnologia, amante do futebol e pai. Tenho habilidades com Angular, Ionic, HTML, JS, CSS, Arduino, Flutter, Dart, Swift, Delphi... "
-  thumbnailUrl: junior.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/juniorabranches/"}
-    - {name: "github", link: "https://github.com/juniorabranches"}
+#- 
+#  id: 5
+#  name: "Júnior"
+#  surname: "Abranches"
+#  company: "i9 Desenvolvimento"
+#  title: "Founder e Analista"
+#  bio: "Trabalho com desenvolvimento mobile há 7 anos, e cerca de 1 ano integrando com o IoT e serviços Cloud. Sou apaixonado por tecnologia, amante do futebol e pai. Tenho habilidades com Angular, Ionic, HTML, JS, CSS, Arduino, Flutter, Dart, Swift, Delphi... "
+#  thumbnailUrl: junior.jpg
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/juniorabranches/"}
+#    - {name: "github", link: "https://github.com/juniorabranches"}
 - 
   id: 6
   name: "Fernanda"
