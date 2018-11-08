@@ -6,7 +6,7 @@
   group: "Prata"
   elements:
     - {name: "Cubos", description: "Além do desenvolvimento", link: "http://www.cubos.io", imageUrl: "cubos.svg", width: "350px"}
-    - {name: "Impulso", description: "Conquiste autonomia e liberdade na sua carreira", link: "https://impulso.network/", imageUrl: "impulso.png", width: "350px"}
+    - {name: "Impulso", description: "Conquiste autonomia e liberdade na sua carreira", link: "http://impulso.network/?utm_source=evento&utm_medium=site&utm_campaign=DevFestFSA", imageUrl: "impulso.png", width: "350px"}
 -
   group: "Padrinhos"
   elements:
