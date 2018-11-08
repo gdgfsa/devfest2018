@@ -78,3 +78,11 @@
   speakers: [9]
   language: pt
   complexity: "Intermediário"
+-
+  id: 008
+  title: "Arduíno prático: controle e automação"
+  description: "Já pensou em ter uma casa automatizada que facilitasse sua vida em atividades diárias, como cuidar da horta, fazer café ou tornar sua casa mais segura? Neste workshop desenvolveremos um sistema de automação residencial utilizando Arduino."
+  subtype: workshop
+  speakers: [7]
+  language: pt
+  complexity: "Iniciante"
