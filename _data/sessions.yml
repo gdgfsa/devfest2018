@@ -10,6 +10,36 @@
   place: ""
   service: true
 -
+  id: 333
+  title: "Credenciamento/Café da manhã"
+  place: ""
+  service: true
+  description: ""
+-
+  id: 331
+  title: "Credenciamento"
+  place: ""
+  service: true
+  description: ""
+-
+  id: 222
+  title: "Abertura"
+  place: ""
+  service: true
+  description: ""
+-
+  id: 999
+  title: "Encerramento"
+  place: ""
+  service: true
+  description: "Vamos tirar muitas fotos e confraternizar!"
+-
+  id: 111
+  title: "Em breve"
+  place: ""
+  service: true
+  description: ""
+-
   id: 001
   title: "Acessibilidade na Internet: Estamos construindo uma web para todos?"
   description: "O mundo web nunca foi tão presente em nossas vidas, mas será que esse universo é acessível para todos? Vamos discutir sobre como as aplicações web estão sendo construídas por e para pessoas com algum tipo de necessidade especial."

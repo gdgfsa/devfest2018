@@ -46,7 +46,7 @@ c4sponsorsUrl: "https://docs.google.com/presentation/d/1I8kw5IvJMprTkqb5-uHJEDY_
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/cod/", text: "Código de Conduta"}
-# - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Palestrantes"}
  - {permalink: "/blog/", text: "Novidades"}
 # - {permalink: "/logistics/", text: "Logistics"}
