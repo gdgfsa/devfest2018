@@ -1,13 +1,13 @@
 -
   id: 307
   title: "Coffee Break"
-  place: "Hall"
+  place: ""
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: "Melhor hora de conversar com os palestrantes e outros participantes."
 -
   id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  title: "Almoço"
+  place: ""
   service: true
 -
   id: 001
