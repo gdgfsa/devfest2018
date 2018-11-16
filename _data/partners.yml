@@ -2,6 +2,7 @@
   group: "Platina"
   elements: 
     - {name: "FTC", description: "Com atuação de destaque entre as Instituições de Ensino Superior particular do Estado e um projeto pedagógico inovador voltado para a interdisciplinaridade e o empreendedorismo.", link: "http://ftc.br/", imageUrl: "ftc.png", width: "545px"}
+    - {name: "Google", description: "Nossa missão é organizar as informações do mundo para que sejam universalmente acessíveis e úteis para todos.", link: "http://www.google.com/about/", imageUrl: "google.svg", width: "545px"}
 -
   group: "Prata"
   elements:
