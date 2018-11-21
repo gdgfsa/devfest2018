@@ -85,3 +85,27 @@
     - {name: "twitter", link: "https://www.twitter.com/cbo317110"}
     - {name: "github", link: "https://www.github.com/cbo317110"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/francisco-santos-820535148/"}
+-
+  id: 10
+  name: "Luiz Cláudio"
+  surname: "Silva"
+  company: "Consultor independente"
+  title: "Usando Python para criar uma API REST na GCP, de diferentes formas."
+  bio: "Formado em Processamento de Dados pela Faculdade Rui Barbosa, especialista em Redes de Computadores pela UNIFACS. Trabalha com desenvolvimento e administração de sistemas e métodos ágeis desde 1996, tendo usado diferentes linguagens e metodologias. Tem participado de diversos eventos como organizador, instrutor e palestrante. Faz parte do Grupo de Usuários Python Bahia (GruPy-BA)"
+  thumbnailUrl: lc.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "http://twitter.com/luizclaudios/"}
+    - {name: "github", link: "https://github.com/luizclaudio/"}
+    - {name: "slideshare", link: "https://slideshare.net/luizclaudiosilva"}
+-
+  id: 11
+  name: "Daniel"
+  surname: "Peixoto"
+  company: ""
+  title: "Busca em Texto em larga escala"
+  bio: "Daniel Peixoto é pesquisador na àrea de Recuperação da Informação. Atualmente trabalha em um buscador exclusivo para fóruns de perguntas e respostas. 'In God we trust; all others bring data'"
+  thumbnailUrl: daniel.jpeg
+  rockstar: false
+  social:
+    - {name: "github", link: "https://github.com/danielspeixoto/"}

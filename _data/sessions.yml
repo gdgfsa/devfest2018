@@ -116,3 +116,19 @@
   speakers: [7]
   language: pt
   complexity: "Iniciante"
+-
+  id: 009
+  title: "Usando Python para criar uma API REST na GCP, de diferentes formas."
+  description: "Tão importante quanto desenvolver uma aplicação Web é garantir sua disponibilidade e robustez. Provedores de computação em nuvem, como a GCP, oferecem diferentes formas de se publicar estas aplicações. Entenda quais são as formas e para que situações são mais indicadas, acompanhando exemplos em Python."
+  subtype: presentation
+  speakers: [10]
+  language: pt
+  complexity: "Avançado"
+-
+  id: 010
+  title: "Busca em Texto em larga escala"
+  description: "O volume de dados é cada vez maior. O problema é que a maior parte desses dados não é estruturado! Como conseguir extrair informação de dados assim? Como trazer as respostas que seu usuário precisa? Nessa palestra vamos aprender os conceitos de processamento de linguagem natural (NLP) e suas aplicações."
+  subtype: presentation
+  speakers: [11]
+  language: pt
+  complexity: "Avançado"
