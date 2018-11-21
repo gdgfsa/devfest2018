@@ -15,7 +15,7 @@ title: "DevFest 2018"
 email: "gdgfsaba@gmail.com"
 description: "DevFest é um evendo de comunidade global do programa GDG"
 baseurl: "/devfest2018"
-url: "https://gdgfsa.github.io/"
+url: "https://gdgfsa.github.io/devfest2018/"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -131,13 +131,16 @@ partnersC4sponsorsButton: "Seja um patrocinador"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeTitle: "Se inscreva para receber atualizações"
+# subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "https://www.sympla.com.br/devfest-afeira-de-santana-2018__349642"
+# subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "As inscrições se encerram em Novembro. O número de ingressos são limitados. Fique ligado!"
 
 # Tickets Block
 ticketsTitle: "Ingressos"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+# ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Os ingressos concedem acesso a todas as seções da conferência, lanches, etc."
 ticketsOffers:
  -
   name: "Primeiro lote"
