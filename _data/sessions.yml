@@ -125,10 +125,18 @@
   language: pt
   complexity: "Avançado"
 -
-  id: 010
+  id: 997
   title: "Busca em Texto em larga escala"
   description: "O volume de dados é cada vez maior. O problema é que a maior parte desses dados não é estruturado! Como conseguir extrair informação de dados assim? Como trazer as respostas que seu usuário precisa? Nessa palestra vamos aprender os conceitos de processamento de linguagem natural (NLP) e suas aplicações."
   subtype: presentation
   speakers: [11]
   language: pt
   complexity: "Avançado"
+-
+  id: 998
+  title: "Arquitetura limpa nas apps: utilizando VIPER no Android"
+  description: "Quantas vezes já nos deparamos com um projeto Android com uma estrutura confusa, muitas vezes com classes infladas e sem responsabilidades e objetivos únicos? Isso claramente nos traz uma série de dificuldades: desde a sua manutenção até a forma como testamos o nosso código. Nessa talk, uma alternativa será proposta para você: a utilização do VIPER, que é uma arquitetura baseada nos conceitos do Clean Architecture. Irei explicar todos os detalhes dessa arquitetura, além de fazer comparativos com outras conhecidas atualmente e mostrar como utilizamos na prática em uma app que é desenvolvida por uma equipe distribuída, além de ser utilizada por milhares de pessoas."
+  subtype: presentation
+  speakers: [12]
+  language: pt
+  complexity: "Intermediário"

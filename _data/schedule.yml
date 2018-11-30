@@ -27,24 +27,34 @@
     - {title: "Auditório", color: "#90be4e"}
   timeslots:
     - {
-        startTime: "13:00",
-        endTime: "14:00",
+        startTime: "12:30",
+        endTime: "13:30",
         sessionIds: [331]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "14:30",
+        startTime: "13:30",
+        endTime: "13:45",
+        sessionIds: [222]
+    }
+    - {
+    	startTime: "13:45",
+    	endTime: "14:10",
     	sessionIds: [001]
     }
     - {
-        startTime: "14:30",
-        endTime: "15:15",
+        startTime: "14:10",
+        endTime: "14:55",
         sessionIds: [004]
     }
     - {
-    	startTime: "15:15",
+    	startTime: "14:55",
+    	endTime: "15:20",
+    	sessionIds: [009]
+    }
+    - {
+    	startTime: "15:20",
     	endTime: "15:45",
-    	sessionIds: [006]
+    	sessionIds: [007]
     }
     - {
     	startTime: "15:45",
@@ -53,21 +63,26 @@
     }
     - {
     	startTime: "16:30",
-    	endTime: "17:00",
-    	sessionIds: [007]
+    	endTime: "16:55",
+    	sessionIds: [006]
     }
     - {
-    	startTime: "17:00",
-    	endTime: "17:30",
+    	startTime: "16:55",
+    	endTime: "17:20",
+    	sessionIds: [997]
+    }
+    - {
+    	startTime: "17:20",
+    	endTime: "17:45",
     	sessionIds: [005]
     }
     - {
-    	startTime: "17:30",
-    	endTime: "18:00",
-    	sessionIds: [111]
+    	startTime: "17:45",
+    	endTime: "18:30",
+    	sessionIds: [998]
     }
     - {
-    	startTime: "18:00",
-    	endTime: "18:30",
+    	startTime: "18:30",
+    	endTime: "19:00",
     	sessionIds: [999]
     }

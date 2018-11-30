@@ -109,3 +109,14 @@
   rockstar: false
   social:
     - {name: "github", link: "https://github.com/danielspeixoto/"}
+-  
+  id: 12
+  name: "Diogo"
+  surname: "Cabral"
+  company: "ThoughtWorks"
+  title: "Arquitetura limpa nas apps: utilizando VIPER no Android"
+  bio: "Sou uma pessoa apaixonada por tecnologia e curiosa por novidades principalmente nas área mobile e front-end. Tive a oportunidade de trabalhar em diversos ramos, como backend (focado em integrações e microsserviços) , frontend (com uma aplicação react utilizando seus frameworks relacionados) e atualmente estou atuando no desenvolvimento de aplicações móveis, visando masterizar cada vez mais os conhecimentos em Android."
+  thumbnailUrl: diogo.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/DrCabrales"}
