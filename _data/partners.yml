@@ -9,6 +9,10 @@
     - {name: "Cubos", description: "Além do desenvolvimento", link: "http://www.cubos.io", imageUrl: "cubos.svg", width: "350px"}
     - {name: "Impulso", description: "Conquiste autonomia e liberdade na sua carreira", link: "http://impulso.network/?utm_source=evento&utm_medium=site&utm_campaign=DevFestFSA", imageUrl: "impulso.png", width: "350px"}
 -
+  group: "Bronze"
+  elements:
+    - {name: "Stickers Devs", description: "Adesivos para desenvolvedores", link: "https://www.stickersdevs.com.br/", imageUrl: "stickers.png", width: "250px"}
+-
   group: "Padrinhos"
   elements:
     - {name: "BenMelhor", description: "Produzir com Motivação. Engajar Pessoas. Criar cultura positiva.", link: "#", imageUrl: "benmelhor.jpeg", width: "200px"}
