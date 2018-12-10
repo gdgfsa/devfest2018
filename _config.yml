@@ -52,13 +52,13 @@ navigationLinks:
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://goo.gl/forms/bZFm7DjlZtI1oGyo2", text: "Chamada de palestrantes"}
+# - {link: "https://goo.gl/forms/bZFm7DjlZtI1oGyo2", text: "Chamada de palestrantes"}
  - {link: "https://docs.google.com/presentation/d/1I8kw5IvJMprTkqb5-uHJEDY_uAA0GOMGWAZSiMzLsFo/edit?usp=drive_web&ouid=102514090926231885162", text: "Seja um patrocinador"}
- - {permalink: "/#tickets", text: "Participe!"}
+# - {permalink: "/#tickets", text: "Participe!"}
 rightNavigationButtons:
- - {link: "https://goo.gl/forms/bZFm7DjlZtI1oGyo2", text: "Chamada de palestrantes"}
+# - {link: "https://goo.gl/forms/bZFm7DjlZtI1oGyo2", text: "Chamada de palestrantes"}
  - {link: "https://docs.google.com/presentation/d/1I8kw5IvJMprTkqb5-uHJEDY_uAA0GOMGWAZSiMzLsFo/edit?usp=drive_web&ouid=102514090926231885162", text: "Seja um patrocinador"}
- - {permalink: "/#tickets", text: "Participe!"}
+# - {permalink: "/#tickets", text: "Participe!"}
 
 # Hero Block
 heroImage: "dev-fest1.jpg"
@@ -67,9 +67,9 @@ eventDate: "8 de dezembro de 2018"
 typeoutTextValues: '"", "Feira de Santana", "Bahia", "Brasil"'
 typeoutFallback: "Feira de Santana"
 heroButtons:
- - {link: "https://goo.gl/forms/bZFm7DjlZtI1oGyo2", text: "Chamada de palestrantes"}
+# - {link: "https://goo.gl/forms/bZFm7DjlZtI1oGyo2", text: "Chamada de palestrantes"}
  - {link: "https://docs.google.com/presentation/d/1I8kw5IvJMprTkqb5-uHJEDY_uAA0GOMGWAZSiMzLsFo/edit?usp=drive_web&ouid=102514090926231885162", text: "Seja um patrocinador"}
- - {permalink: "/#tickets", text: "Participe!"}
+# - {permalink: "/#tickets", text: "Participe!"}
 
 # About Block
 aboutTitle: "Sobre GDG DevFest"
@@ -159,27 +159,27 @@ ticketsOffers:
   name: "Segundo Lote"
   price: "40"
   priceCurrency: "R$"
-  featured: true
+  featured: false
   ticketsNumber: "100"
   buyButtonLink: "https://www.sympla.com.br/devfest-afeira-de-santana-2018__349642"
-  buyButtonText: "Participe!"
+  buyButtonText: "Esgotado!"
   ticketContentList: []
   validFrom: "2018-10-22T00:00"
   validThrough: "2018-11-26T00:00"
-  soldOut: false
+  soldOut: true
   soldOutText: "Esgotado"
+  disabled: true
  -
   name: "Último lote"
   price: "50"
   priceCurrency: "R$"
   ticketsNumber: "100"
   buyButtonLink: "https://www.sympla.com.br/devfest-afeira-de-santana-2018__349642"
-  buyButtonText: "Em breve"
+  buyButtonText: "Esgotado!"
   ticketContentList: []
   validFrom: "2018-11-22T00:00"
   validThrough: "2018-12-06T00:00"
-  soldOut: false
-  disabled: true
+  soldOut: true
   soldOutText: "Esgotado"
 
 # Footer
